@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 👨‍💻 All of my projects are available at [[ervenderr.github.io](ervenderr.github.io)](https://ervenderr.github.io)
+- 👨‍💻 All of my projects are available at [[ervenderr.github.io]([ervenderr.github.io](https://ervenderr.github.io)]
 
 - 💬 Ask me about **Machine Learning**
 
