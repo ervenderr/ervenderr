@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ervenderr" alt="ervenderr" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Next.js 14**
 
 - 👨‍💻 All of my projects are available at [ervenderr.github.io](https://ervenderr.github.io)
 
