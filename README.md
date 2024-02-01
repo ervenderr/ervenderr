@@ -1,6 +1,6 @@
 [![MasterHead](https://github.com/ervenderr/ervenderr/blob/main/HELLO%20WORLD.png)](ervenderr.github.io)
 <h1 align="center">Hi 👋, I'm Erven Idjad</h1>
-<h3 align="center">Enthusiastic Frontend and Backend Developer hailing from the vibrant Philippines🌏.</h3>
+<h3 align="center">Enthusiastic Software Developer hailing from the vibrant Philippines🌏.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ervenderr&label=Profile%20views&color=0e75b6&style=flat" alt="ervenderr" /> </p>
 
