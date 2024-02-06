@@ -10,8 +10,6 @@
 
 - 👨‍💻 All of my projects are available at [ervenderr.github.io](https://ervenderr.github.io)
 
-- 💬 Ask me about **Machine Learning**
-
 - 📫 How to reach me **ervenidjad12@gmail.com**
 
 - ⚡ Fun fact **Sometimes I'm funny.**
