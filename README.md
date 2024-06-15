@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **ervenidjad12@gmail.com**
 
-- ⚡ Fun fact **Sometimes I'm funny.**
+- ⚡ Fun fact **I love anime.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
