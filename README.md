@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ervenderr" alt="ervenderr" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js/React.js**
+- 🌱 I’m currently learning **GenAI**
 
-- 👨‍💻 All of my projects are available at [ervenderr.github.io](https://ervenderr.github.io)
+- 👨‍💻 All of my projects are available at [ervenderr.vercel.app](https://ervenderr.vercel.app)
 
 - 📫 How to reach me **ervenidjad12@gmail.com**
 
