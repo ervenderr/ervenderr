@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://ervenderr.vercel.app"><img src="https://img.shields.io/badge/Portfolio-ervenderr.vercel.app-0e75b6?style=flat" alt="Portfolio"/></a>
   <a href="mailto:ervenidjad12@gmail.com"><img src="https://img.shields.io/badge/Email-ervenidjad12%40gmail.com-d14836?style=flat&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://www.linkedin.com/in/erven-idjad/"><img src="https://img.shields.io/badge/LinkedIn-erven--idjad-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://twitter.com/ervenderrr"><img src="https://img.shields.io/badge/X-@ervenderrr-000000?style=flat&logo=x&logoColor=white" alt="X"/></a>
   <a href="https://kaggle.com/ervenderr"><img src="https://img.shields.io/badge/Kaggle-ervenderr-20BEFF?style=flat&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
 </p>
